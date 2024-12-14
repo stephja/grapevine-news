@@ -13,7 +13,7 @@
     "fs": "0.0.2",
     "material-ui": "^0.20.2",
     "moment": "^2.27.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^3.1.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^1.1.5"
